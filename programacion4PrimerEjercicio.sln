@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "programacion4PrimerEjercicio.Android", "programacion4PrimerEjercicio.Android\programacion4PrimerEjercicio.Android.csproj", "{D0890A38-456D-4950-8F15-5818D4D07DD3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "programacion4PrimerEjercicio", "programacion4PrimerEjercicio\programacion4PrimerEjercicio.csproj", "{DF771444-6D56-475F-8BC1-0B5585738616}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0890A38-456D-4950-8F15-5818D4D07DD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0890A38-456D-4950-8F15-5818D4D07DD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0890A38-456D-4950-8F15-5818D4D07DD3}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{D0890A38-456D-4950-8F15-5818D4D07DD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0890A38-456D-4950-8F15-5818D4D07DD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0890A38-456D-4950-8F15-5818D4D07DD3}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{DF771444-6D56-475F-8BC1-0B5585738616}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF771444-6D56-475F-8BC1-0B5585738616}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF771444-6D56-475F-8BC1-0B5585738616}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{DF771444-6D56-475F-8BC1-0B5585738616}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF771444-6D56-475F-8BC1-0B5585738616}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF771444-6D56-475F-8BC1-0B5585738616}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {800885C6-6828-4C62-8366-2E6FE67C7991}
+	EndGlobalSection
+EndGlobal
